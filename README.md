@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Janselin! 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Janselin! I'm a Frontend Web Dev student! Selflearner. I live in Argentina.
+<!---- 👀 I’m interested in ...--->
+
+- 🌱 I’m currently learning HTML/CSS and doing some challenges on FrontEnd Mentor site.
+<!---- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ...
 
 <!---
