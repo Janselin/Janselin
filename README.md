@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mary Fernandez</h1>
-<h3 align="center">A passionate self learner. Aspiring to be a Frontend Web Developer!</h3>
+<h1 align="center">Hi ✨, I'm Mary Fernandez</h1>
+<h3 align="center">A passionate self learner. Aspiring to be a Frontend Web Developer!👩‍💻</h3>
 
 - 🔭 I’m currently working on [FrontendMentor Challenges](https://www.frontendmentor.io/profile/Janselin)
+     and also some personal projects
 
 - 🌱 I’m currently learning **Javascript**
 
