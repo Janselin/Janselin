@@ -3,7 +3,7 @@
  I'm Mary Fernández</h1>
 <h3>A passionate self learner. Aspiring to be a Frontend Web Developer!👩‍💻</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Programming on Python**
 
 - 🍪 I work with: **HTML/CSS**
 
