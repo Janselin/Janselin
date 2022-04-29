@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/WBsd0sC/107825729-3284799701586106-2090839064638291859-o.jpg" alt="107825729-3284799701586106-2090839064638291859-o" border="0" align="center">
 <h1>Hi ✨ <br>
  I'm Mary Fernández</h1>
-<h3>A passionate self-taught. Aspiring to be a Frontend Web Developer!👩‍💻</h3>
+<h3>A passionate self-taught Frontend Web Developer!👩‍💻</h3>
 
 - 🌱 I’m currently learning **Programming on Python**
 
