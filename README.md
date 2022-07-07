@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/WBsd0sC/107825729-3284799701586106-2090839064638291859-o.jpg" alt="107825729-3284799701586106-2090839064638291859-o" border="0" align="center">
+<img src="https://i.ibb.co/WBsd0sC/107825729-3284799701586106-2090839064638291859-o.jpg" alt="107825729-3284799701586106-2090839064638291859-o" border="0" align="center" width="180" height="180">
 <h1>Hi ✨ <br>
  I'm Mary Fernández</h1>
 <h3>A passionate self-taught Frontend Web Developer!👩‍💻</h3>
