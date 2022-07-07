@@ -5,7 +5,7 @@
 
 
 - 🍪 I work at: **Código Facilito**
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning: **Python**
 - 🔭 I’m currently working on [FrontendMentor Challenges](https://www.frontendmentor.io/profile/Janselin)     and also some personal projects
 - 👨‍💻 All of my projects are available at [https://github.com/Janselin](https://github.com/Janselin)
 - 📫 How to reach me **maryanfer23@gmail.com**
