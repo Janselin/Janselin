@@ -3,12 +3,8 @@
  I'm Mary Fernández</h1>
 <h3>A passionate self-taught Developer!👩‍💻</h3>
 
-
 - 🍪 I work at: **Código Facilito**
-- 🌱 I’m currently learning: **Python**
-- 🔭 I’m currently working on [FrontendMentor Challenges](https://www.frontendmentor.io/profile/Janselin)     and also some personal projects
-- 👨‍💻 All of my projects are available at [https://github.com/Janselin](https://github.com/Janselin)
-- 📫 How to reach me **maryanfer23@gmail.com**
+- 🌱 I’m currently learning: **Programming using Python** 
 - 💖 Things I love **Gaming, tv series and coffee**
 
 
