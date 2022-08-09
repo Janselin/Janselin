@@ -4,7 +4,7 @@
 <h3>A passionate self-taught Developer!👩‍💻</h3>
 
 - 🍪 I work at: **Código Facilito**
-- 🌱 I’m currently learning: **Programming using Python** 
+- 🌱 I’m currently learning: **Bootcamp de Frontend - Código Facilito** 
 - 💖 Things I love **Gaming, tv series and coffee**
 
 
