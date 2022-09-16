@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: **Bootcamp de Frontend - Código Facilito** 
 - 💖 Things I love **Gaming, tv series and coffee**
 
-
+** this bio is under construction ** 👷🏻‍♀️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
