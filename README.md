@@ -8,9 +8,6 @@
 - 💖 Things I love **Gaming, tv series and coffee**
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-[![ufomSa.png](https://i.im.ge/2022/07/08/ufomSa.png)](https://im.ge/i/ufomSa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
