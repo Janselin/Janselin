@@ -3,7 +3,6 @@
 <h3>A passionate self-taught Developer!👩‍💻</h3>
 
 - 👩🏻‍💻 I work as DevRel at Código Facilito.
-- ✍🏻 I’m currently learning: **Javascript** 
 - 💖 Things I love **Gaming, tv series and coffee**
 
 👷🏻‍♀️ 🚧 **this bio is under construction** 
