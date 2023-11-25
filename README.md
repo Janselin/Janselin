@@ -3,7 +3,8 @@
 <h3>A passionate self-taught Developer!👩‍💻</h3>
 
 - 👩🏻‍💻 I work as DevRel at Código Facilito.
-- 💖 Things I love **Gaming, tv series and coffee**
+- 💚 I love being in contact with the comunity.
+- 💖 Hobbies: **Gaming, tv series and coffee**
 
 👷🏻‍♀️ 🚧 **this bio is under construction** 
 
