@@ -1,10 +1,10 @@
 <img src="https://i.ibb.co/WBsd0sC/107825729-3284799701586106-2090839064638291859-o.jpg" alt="107825729-3284799701586106-2090839064638291859-o" border="0" align="center" width="180" height="180">
 <h1>hello world✨ I'm Mary Fernández</h1>
-<h3>A passionate self-taught Developer!👩‍💻</h3>
 
 - 👩🏻‍💻 I work as DevRel at [Código Facilito](http://codigofacilito.com "Código Facilito").
-- 💚 I love being in contact with the comunity.
-- 💖 Hobbies: **Gaming, tv series and coffee**
+- 🌎 I love being in contact with the comunity.
+- ☕ Hobbies: **Gaming, tv series and coffee**
+- 💚 I make projects for fun or just to make my life easier
 
 👷🏻‍♀️ 🚧 **this bio is under construction** 
 
