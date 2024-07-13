@@ -2,7 +2,7 @@
 <h1>hello world✨ I'm Mary Fernández</h1>
 <h3>A passionate self-taught Developer!👩‍💻</h3>
 
-- 👩🏻‍💻 I work as DevRel at Código Facilito.
+- 👩🏻‍💻 I work as DevRel at [Código Facilito](http://codigofacilito.com "Código Facilito").
 - 💚 I love being in contact with the comunity.
 - 💖 Hobbies: **Gaming, tv series and coffee**
 
